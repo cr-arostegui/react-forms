@@ -8,8 +8,9 @@ function App() {
     <>
       <Header />
       <main>
-        <Signup />
+        {/* <Signup /> */}
         {/* <Login /> */}
+        <StateLogin />
       </main>
     </>
   );
